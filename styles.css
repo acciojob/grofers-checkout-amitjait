@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+body{
+	margin:0px auto;
+}
+table td{
+	border:1px solid black;
+}
